@@ -48,7 +48,7 @@ enum custom_keycodes {
   SUU
 };
 
-#define KC_SUU TG(_SUU)
+#define KC_SUU MO(_SUU)
 
 enum macro_keycodes {
   KC_SAMPLEMACRO,
